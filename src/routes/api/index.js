@@ -1,7 +1,7 @@
 const { Router } = require("express");
 
 const blogs = require("./blogs");
-const comments = require("./comment");
+const comments = require("./comments");
 
 const router = Router();
 
